@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc5c0cae-84e4-4b62-8405-8c94dbdb4a0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/knowns/user1/pic1_user1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/knowns/user1/pic2_user1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/knowns/user1/pic3_user1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/knowns/user1/pic4_user1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/knowns/user1/pic5_user1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faswu_pycharm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Faswu_pycharm/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faswu_pycharm/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Faswu_pycharm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faswu_pycharm/Facial_Recognition_Part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Faswu_pycharm/Facial_Recognition_Part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faswu_pycharm/face_recog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Faswu_pycharm/face_recog.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Faswu" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Faswu_pycharm" />
+  </component>
+  <component name="ProjectId" id="1c727fa0U8TgP1U8mrieeYHNJho" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc5c0cae-84e4-4b62-8405-8c94dbdb4a0b" name="Default Changelist" comment="" />
+      <created>1589865144251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589865144251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="481" y="152" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589865926186">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="481" y="152" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1589865926186" />
+  </component>
+</project>
