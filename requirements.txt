@@ -1,0 +1,14 @@
+cmake==3.15.3
+dlib==19.7.0
+face-recognition==1.2.3
+face-recognition-models==0.3.0
+imutils==0.5.3
+numpy==1.18.0
+opencv-python==4.1.2.30
+Pillow==7.0.0
+PyAudio==0.2.11
+PyInstaller==3.6
+PyQt5==5.13.0
+PyQt5-sip==12.7.2
+PyQt5-stubs==5.14.2.2
+pyqt5-tools==5.13.0.1.5

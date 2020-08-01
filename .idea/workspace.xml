@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc5c0cae-84e4-4b62-8405-8c94dbdb4a0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/connect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/knowns/user1/pic1_user1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/knowns/user1/pic2_user1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/knowns/user1/pic3_user1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/knowns/user1/pic4_user1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faswu_pycharm/knowns/user1/pic5_user1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faswu_pycharm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Faswu_pycharm/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faswu_pycharm/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Faswu_pycharm/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faswu_pycharm/Facial_Recognition_Part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Faswu_pycharm/Facial_Recognition_Part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faswu_pycharm/face_recog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Faswu_pycharm/face_recog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facial_Recognition_Part1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_recog.py" beforeDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +17,7 @@
     <favorites_list name="Faswu" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Faswu_pycharm" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1c727fa0U8TgP1U8mrieeYHNJho" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,7 +28,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/PyCharm/PyCharm WorkSpace/faswu_button" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,6 +55,17 @@
       <updated>1589865144251</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="481" y="152" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589865926186">

@@ -44,10 +44,10 @@ import shutil
 
 import os.path  
 
-file = 'C:/Users/user_name/PycharmProjects /project_name/input_users.txt'
-file2 =  'C:/Users/user_name/PycharmProjects/project_name/user_privacy.txt'
+file = 'C:/faswu-master/faswu-master/Faswu_pycharm/input_users.txt'
+file2 =  'C:/faswu-master/faswu-master/Faswu_pycharm/user_privacy.txt'
 if os.path.isfile(file):
-    file = open( 'C:/Users/user_name/PycharmProjects/project_name/input_users.txt', 'r')
+    file = open( 'C:/faswu-master/faswu-master/Faswu_pycharm/input_users.txt', 'r')
     lines = file.readlines()
     line = file.readline()
 
@@ -60,13 +60,13 @@ if os.path.isfile(file):
 
     print(Input_users)
 
-    os.remove('C:/Users/user_name/PycharmProjects/project_name/input_users.txt')
+    os.remove('C:/faswu-master/faswu-master/Faswu_pycharm/input_users.txt')
 
 else:
     print("Input users: empty")
 
 if os.path.isfile(file2):
-    file = open('C:/Users/user_name/PycharmProjects/project_name/user_privacy.txt', 'r')
+    file = open('C:/faswu-master/faswu-master/Faswu_pycharm/user_privacy.txt', 'r')
     lines = file.readlines()
     line = file.readline()
 
@@ -79,7 +79,7 @@ if os.path.isfile(file2):
     changes = {"True": True, "False": False}
     user_privacy = [changes.get(x, False) for x in past_privacy_list]
 
-    os.remove('C:/Users/user_name/PycharmProjects/project_name/user_privacy.txt')
+    os.remove('C:/faswu-master/faswu-master/Faswu_pycharm/user_privacy.txt')
 
 else:
     user_privacy = [False] * 100
@@ -304,11 +304,11 @@ if __name__ == '__main__':
         # 저장된 user들을 user1을 제외하고 삭제한다.
         if response == True:
 
-            num = len(os.walk('C:/Users/user_name/PycharmProjects/project_name/knowns').__next__()[1])
+            num = len(os.walk('C:/faswu-master/faswu-master/Faswu_pycharm/knowns').__next__()[1])
             print(num)
 
             for i in range(2, num + 1):
-                shutil.rmtree('C:/Users/user_name/PycharmProjects/project_name/knowns/user' + str(i))
+                shutil.rmtree('C:/faswu-master/faswu-master/Faswu_pycharm/knowns/user' + str(i))
         print("exit")
         stop()
 
@@ -370,12 +370,12 @@ if __name__ == '__main__':
         changes = {"True": True, "False": False}
         user_privacy = [changes.get(x, False) for x in past_privacy_list]
 
-        file = open('C:/Users/user_name/PycharmProjects/project_name/input_users.txt', 'w')
+        file = open('C:/faswu-master/faswu-master/Faswu_pycharm/input_users.txt', 'w')
         for Input_user in Input_users:
             file.write(Input_user + "\n")
         file.close()
 
-        file = open('C:/Users/user_name/PycharmProjects/project_name/user_privacy.txt', 'w')
+        file = open('C:/faswu-master/faswu-master/Faswu_pycharm/user_privacy.txt', 'w')
         for i in past_privacy_list:
             file.write(i + "\n")
         file.close()
