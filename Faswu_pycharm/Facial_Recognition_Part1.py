@@ -41,7 +41,7 @@ for file in file_list:
         max = index + 1
     print("facial_max: ",max)
 print(max)
-createFolder('C:/Users/user_name/PycharmProjects/project_name/knowns/user'+str(max))
+createFolder('C:/faswu-master/faswu-master/Faswu_pycharm/knowns/user'+str(max))
 
 while True:
     ret, frame = cap.read()
@@ -66,7 +66,7 @@ cap.release()
 cv2.destroyAllWindows()
 print('Colleting Samples Complete!!!')
 
-os.system('python "C:/Users/user_name/PycharmProjects/project_name/face_recog.py"')
+os.system('python "C:/faswu-master/faswu-master/Faswu_pycharm/face_recog.py"')
 
 
 
