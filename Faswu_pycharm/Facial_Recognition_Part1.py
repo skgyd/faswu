@@ -69,4 +69,3 @@ print('Colleting Samples Complete!!!')
 os.system('python "C:/faswu-master/faswu-master/Faswu_pycharm/face_recog.py"')
 
 
-
