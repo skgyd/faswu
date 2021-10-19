@@ -35,6 +35,7 @@
 
 # 특허 및 논문
 ![image](https://user-images.githubusercontent.com/51011817/137946929-67a63f23-8964-49ae-b5e8-1078529c04b4.png)
+
 [[KIPS 학술발표대회]실시간 동영상에서의 인물 선별 송출 시스템.pdf](https://github.com/skgyd/faswu/files/7374861/KIPS.pdf)
 
 
