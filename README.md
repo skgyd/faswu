@@ -14,5 +14,21 @@
 3. 블라인드 처리를 해제하고 싶은 사용자가 있으면 learn버튼을 눌러서 학습시킵니다.
 4. 다시 블라인드하여 가리고 싶으면 하단의 입력창에 user번호를 입력하여 블라인드를 해제합니다.
 
-# faswu
-# faswu
+# 프로세스
+![image](https://user-images.githubusercontent.com/51011817/137945630-36520328-8e7c-44a5-9d7e-d34e4c27aa0b.png)
+![image](https://user-images.githubusercontent.com/51011817/137945789-af871212-20ea-4d3e-af4c-3dcf6b283877.png)
+
+1.   프로그램 시작 시 화면에 보이는 모든 인물을 Unknown으로 인식
+
+2.   송출하고 싶은 인물 학습 (연속된 사진 촬영)
+
+3.    User9로 인식한 화면 (블라인드 해제)
+
+4.   학습된 인물을 제외한 인물은 Unknown으로 블라인드 처리됨
+
+5.   다중인물 인식
+
+6.   사용자에게 송출될 인물의 자율성 부여 – user10 가리기
+
+7.   user10 블라인드 처리됨
+
