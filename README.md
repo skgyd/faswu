@@ -9,8 +9,8 @@
 
 ##설치방법(Installation)
 
-1.프로젝트를 로컬디스크(C:)에 다운로드 후 파이참에서 실행합니다.
-pip install -r requirements.txt 로 패키지 리스트로 설치합니다. 
+1. 프로젝트를 로컬디스크(C:)에 다운로드 후 파이참에서 실행합니다.
+2. pip install -r requirements.txt 로 패키지 리스트로 설치합니다. 
 
 
 ##사용법 (Usage)
